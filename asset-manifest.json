@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather_in_city/static/css/main.0daf9b7b.css",
+    "main.js": "/weather_in_city/static/js/main.a4695d4d.js",
+    "index.html": "/weather_in_city/index.html",
+    "main.0daf9b7b.css.map": "/weather_in_city/static/css/main.0daf9b7b.css.map",
+    "main.a4695d4d.js.map": "/weather_in_city/static/js/main.a4695d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0daf9b7b.css",
+    "static/js/main.a4695d4d.js"
+  ]
+}
